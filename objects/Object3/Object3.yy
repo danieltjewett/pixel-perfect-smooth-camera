@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_whitesr",
-    "path": "sprites/spr_whitesr/spr_whitesr.yy",
+    "name": "Sprite5",
+    "path": "sprites/Sprite5/Sprite5.yy",
   },
   "solid": false,
   "visible": true,
@@ -11,7 +11,7 @@
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
-  "physicsGroup": 0,
+  "physicsGroup": 1,
   "physicsDensity": 0.5,
   "physicsRestitution": 0.1,
   "physicsLinearDamping": 0.1,
@@ -30,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_whitesr",
+  "name": "Object3",
   "tags": [],
   "resourceType": "GMObject",
 }
